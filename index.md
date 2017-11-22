@@ -2,6 +2,8 @@
 
 ### Interesting Literature
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Online Book Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+
 
 
 
