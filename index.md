@@ -4,6 +4,12 @@
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Online Book Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
+## Tensorflow
+
+### Things to know
+- Computational Graph: This graph consists of nodes which are specifing TensorFlow operations. The backend of TensorFlow is based on highly efficient C++ Code. Instead of sending each single operation to the backend, which includes overhead for switching back to python. The computational graph is send to the backend.
+
+- Session: The connection to the backend is called session
 
 
 
