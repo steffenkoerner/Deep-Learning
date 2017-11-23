@@ -17,7 +17,9 @@ The connection to the backend is called session
 A placeholder is a value that is guaranteed to be inputted if the program is run. For example the input is inserted into the placeholder values
 
 - **Variable:**  <br>
-It is a value that is within the computational graph. It can be used and even modified by the computation. In general the model parameter are variables.
+It is a value that is within the computational graph. It can be used and even modified by the computation. In general the model parameter are variables. Before a variable can be used within a session it has to be initialized. This can be done for all variables at once. `sess.run(tf.global_variables_initializer())`
+
+
 
 
 
