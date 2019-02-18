@@ -4,6 +4,9 @@
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Online Book Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [Google Crash Course](https://developers.google.com/machine-learning/crash-course/fitter/graph)
+
+
 
 
 ## Tensorflow
