@@ -5,6 +5,9 @@
 - [Online Book Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Google Crash Course](https://developers.google.com/machine-learning/crash-course/fitter/graph)
+- [Neural Network Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.30786&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+
 
 
 
