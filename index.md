@@ -9,6 +9,9 @@
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Free Udacity Course Deep Learning](https://eu.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api)
 - [Short Backpropagation explanation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+- [Backpropagation more details](http://colah.github.io/posts/2015-08-Backprop/)
+
+
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
 
