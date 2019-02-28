@@ -9,8 +9,8 @@
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Free Udacity Course Deep Learning](https://eu.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api)
 
-
-
+### Competitions
+- [kaggle](https://www.kaggle.com/)
 
 
 
