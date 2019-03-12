@@ -11,6 +11,7 @@
 - [Summary Backpropagation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [Backpropagation intuitve](http://colah.github.io/posts/2015-08-Backprop/)
 - [Backpropagation in detail](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [Github code for applying style to images](https://github.com/lengstrom/fast-style-transfer)
 
 
 ### Competitions
