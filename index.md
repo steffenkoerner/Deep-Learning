@@ -17,6 +17,9 @@
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
 
+### Games
+- [Flappy Bird(Github)](https://github.com/yenchenlin/DeepLearningFlappyBird)
+
 
 
 
