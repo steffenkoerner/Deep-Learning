@@ -11,10 +11,12 @@
 - [Github code for applying style to images](https://github.com/lengstrom/fast-style-transfer)
 
 #### Backpropagation
-- [Karpathy - Yes, you should understand backpropagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [Summary Backpropagation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [Backpropagation intuitve](http://colah.github.io/posts/2015-08-Backprop/)
 - [Backpropagation in detail](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [Karpathy - Yes, you should understand backpropagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+- [CS231n Winter 2016 Lecture 4 Backpropagation](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+
 
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
