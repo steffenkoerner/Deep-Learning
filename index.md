@@ -33,6 +33,14 @@
 ### Other Links
 - [10 Operating System Concepts to know](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
+### Concept a ML Engineer must know
+* Supervised Learning
+* Unsupervised Learning
+* Reinforcement Learning
+* Backpropagation
+* Gradient Decent
+* Neural Network, CNN, RNN
+* Regularization (L1, L2, Dropout)
 
 
 ## Tensorflow
