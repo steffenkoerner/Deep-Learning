@@ -44,6 +44,7 @@
 * Local Minima
 * Vanishing Gradient
 * Activation Function (Sigmoid, Relu,...)
+* Learning Rate
 
 
 ## Tensorflow
