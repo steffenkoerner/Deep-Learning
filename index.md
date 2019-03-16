@@ -43,7 +43,7 @@
 * Regularization (L1, L2, Dropout)
 * Local Minima
 * Vanishing Gradient
-* Activation Function
+* Activation Function (Sigmoid, Relu,...)
 
 
 ## Tensorflow
