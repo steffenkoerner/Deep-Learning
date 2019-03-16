@@ -41,6 +41,8 @@
 * Gradient Decent
 * Neural Network, CNN, RNN
 * Regularization (L1, L2, Dropout)
+* Local Minima
+* Vanishing Gradient
 
 
 ## Tensorflow
