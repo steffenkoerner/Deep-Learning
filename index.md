@@ -38,7 +38,7 @@
 * Unsupervised Learning
 * Reinforcement Learning
 * Backpropagation
-* Gradient Decent
+* Gradient Decent, Stochastic Gradient Descent
 * Neural Network, CNN, RNN
 * Regularization (L1, L2, Dropout)
 * Local Minima
