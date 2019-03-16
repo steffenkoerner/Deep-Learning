@@ -39,9 +39,11 @@
 * Reinforcement Learning
 * Backpropagation
 * Gradient Decent, Stochastic Gradient Descent
+  * Local Minima
+  * Momentum
 * Neural Network, CNN, RNN
 * Regularization (L1, L2, Dropout)
-* Local Minima
+
 * Vanishing Gradient
 * Activation Function (Sigmoid, Relu,...)
 * Learning Rate
