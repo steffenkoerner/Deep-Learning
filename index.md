@@ -47,6 +47,8 @@
 * Vanishing Gradient
 * Activation Function (Sigmoid, Relu,...)
 * Learning Rate
+* Transfer Learning
+  * use pre-trained networks to improve the performance of your classifier
 
 
 ## Tensorflow
