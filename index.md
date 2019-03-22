@@ -50,20 +50,3 @@
 * Transfer Learning
   * use pre-trained networks to improve the performance of your classifier
 
-
-## Tensorflow
-
-### Things to know
-- **Computational Graph:** <br>
-This graph consists of nodes which are specifing TensorFlow operations. The backend of TensorFlow is based on highly efficient C++ Code. Instead of sending each single operation to the backend, which includes overhead for switching back to python. The computational graph is send to the backend.
-
-- **Session:**  <br> 
-The connection to the backend is called session
-
-- **Placeholder:**  <br>
-A placeholder is a value that is guaranteed to be inputted if the program is run. For example the input is inserted into the placeholder values
-
-- **Variable:**  <br>
-It is a value that is within the computational graph. It can be used and even modified by the computation. In general the model parameter are variables. Before a variable can be used within a session it has to be initialized. This can be done for all variables at once. `sess.run(tf.global_variables_initializer())`
-
-
