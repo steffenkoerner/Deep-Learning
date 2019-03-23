@@ -17,6 +17,8 @@
 - [Karpathy - Yes, you should understand backpropagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [CS231n Winter 2016 Lecture 4 Backpropagation](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
+### CNN
+- [A easy introduction to CNN (youtube)](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
