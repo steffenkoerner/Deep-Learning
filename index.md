@@ -10,6 +10,8 @@
 - [Free Udacity Course Deep Learning](https://eu.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api)
 - [Github code for applying style to images](https://github.com/lengstrom/fast-style-transfer)
 
+- [Convolutional Neuronal Network](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 #### Backpropagation
 - [Summary Backpropagation](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 - [Backpropagation intuitve](http://colah.github.io/posts/2015-08-Backprop/)
