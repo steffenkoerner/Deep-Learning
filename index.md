@@ -33,6 +33,7 @@
 
 ### Machine Learning Projects
 - [30 Amazing Machine Learning Projects](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
+
 ### Interview Machine Learning
 - [What I am learned from AI interviews](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 
@@ -40,6 +41,10 @@
 ### Other Links
 - [10 Operating System Concepts to know](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
+
+ ### Study Plan
+ -[Study Plan for Machine Learning](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ 
 ### Concept a ML Engineer must know
 * Supervised Learning
 * Unsupervised Learning
@@ -70,5 +75,7 @@
     Generative adversarial networks
     Hyperparameter tuning
     Model deployment and serving
+    
+
 
 
