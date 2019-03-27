@@ -51,31 +51,30 @@
 - Unsupervised Learning
 - Reinforcement Learning
 - Backpropagation
-* Gradient Decent, Stochastic Gradient Descent
-  * Local Minima
-  * Momentum
-* Neural Network, CNN, RNN
-* Regularization (L1, L2, Dropout)
-
-* Vanishing Gradient
-* Activation Function (Sigmoid, Relu,...)
-* Learning Rate
-* Transfer Learning
-  * use pre-trained networks to improve the performance of your classifier
+- Gradient Decent, Stochastic Gradient Descent
+  - Local Minima
+  - Momentum
+- Neural Network, CNN, RNN
+- Regularization (L1, L2, Dropout)
+- Vanishing Gradient
+- Activation Function (Sigmoid, Relu,...)
+- Learning Rate
+- Transfer Learning
+  - use pre-trained networks to improve the performance of your classifier
   
   
   ### Skills a ML should have
-    Building and training neural networks
-    Model evaluation and validation
-    Convolutional neural networks
-    Autoencoders and feature extraction
-    Transfer learning
-    Recurrent neural networks
-    Natural language processing
-    Data augmentation
-    Generative adversarial networks
-    Hyperparameter tuning
-    Model deployment and serving
+  - Building and training neural networks
+  - Model evaluation and validation
+- Convolutional neural networks
+- Autoencoders and feature extraction
+- Transfer learning
+- Recurrent neural networks
+- Natural language processing
+- Data augmentation
+- Generative adversarial networks
+- Hyperparameter tuning
+- Model deployment and serving
     
 
 
