@@ -9,6 +9,7 @@
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Free Udacity Course Deep Learning](https://eu.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api)
 - [Github code for applying style to images](https://github.com/lengstrom/fast-style-transfer)
+-[An Insider’s Guide to Keeping Up with the AI Experts](https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html)
 
 
 
