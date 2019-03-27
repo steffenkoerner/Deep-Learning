@@ -47,10 +47,10 @@
  - [Study Plan for Software Engineer](https://github.com/jwasham/coding-interview-university)
  
 ### Concept a ML Engineer must know
-* Supervised Learning
-* Unsupervised Learning
-* Reinforcement Learning
-* Backpropagation
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Backpropagation
 * Gradient Decent, Stochastic Gradient Descent
   * Local Minima
   * Momentum
