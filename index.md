@@ -43,7 +43,8 @@
 
 
  ### Study Plan
- -[Study Plan for Machine Learning](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ - [Study Plan for Machine Learning](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ - [Study Plan for Software Engineer](https://github.com/jwasham/coding-interview-university)
  
 ### Concept a ML Engineer must know
 * Supervised Learning
