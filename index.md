@@ -64,8 +64,8 @@
   
   
   ### Skills a ML should have
-  - Building and training neural networks
-  - Model evaluation and validation
+- Building and training neural networks
+- Model evaluation and validation
 - Convolutional neural networks
 - Autoencoders and feature extraction
 - Transfer learning
