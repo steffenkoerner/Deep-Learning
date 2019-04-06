@@ -54,6 +54,7 @@
 - Gradient Decent, Stochastic Gradient Descent
   - Local Minima
   - Momentum
+- Capsule Network
 - Neural Network, MLP, CNN, RNN
 - CNN
   - Convoluational Layer
