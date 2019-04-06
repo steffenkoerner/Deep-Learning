@@ -42,12 +42,13 @@
 
 
 ### Other Links
-- [10 Operating System Concepts to know](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
+
 
 
  ### Study Plan
  - [Study Plan for Machine Learning](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
  - [Study Plan for Software Engineer](https://github.com/jwasham/coding-interview-university)
+   - [10 Operating System Concepts to know](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
  
 ### Concept a ML Engineer must know
 - Supervised Learning
