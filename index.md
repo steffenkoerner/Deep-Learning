@@ -24,7 +24,7 @@
 - [A easy introduction to CNN (youtube)](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [Convolutional Neuronal Network (CS231)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [How CNN's see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
-- [What a neural net see] (https://experiments.withgoogle.com/what-neural-nets-see)
+- [What a neural net see](https://experiments.withgoogle.com/what-neural-nets-see)
 - [Visualizing and Understanding Deep Neural Networks](https://www.youtube.com/watch?v=ghEmQSxT6tw&t=5s)
 - [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM&t=78s)
 
