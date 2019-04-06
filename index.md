@@ -77,5 +77,12 @@
 - Model deployment and serving
     
 
+### Brain Storming
 
+## Steps to do deep learning
+- Visualize Data
+- Pre-Process Data (Filtering of bad examples, Appyling little changes, Normalizing,...)
+- Define a Model
+- Train the model (Defining loss and optimization functions)
+- Save the best model
 
