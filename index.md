@@ -64,6 +64,7 @@
   - Convoluational Layer
   - Pooling Layer
   - Padding
+    - Adding border pixels around the image
   - Stride
 - Regularization (L1, L2, Dropout)
 - Vanishing Gradient
