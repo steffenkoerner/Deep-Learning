@@ -1,5 +1,5 @@
 ## Welcome to Deep Learning
-Deep learning is a type of machine learning, which is a type of artificial intelligence.
+Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Machine_learning), which is a type of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence).
 
 ### Interesting Literature
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
