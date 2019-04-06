@@ -55,6 +55,9 @@
   - Local Minima
   - Momentum
 - Neural Network, MLP, CNN, RNN
+- CNN
+  - Convoluational Layer
+  - Pooling Layer
 - Regularization (L1, L2, Dropout)
 - Vanishing Gradient
 - Activation Function (Sigmoid, Relu,...)
