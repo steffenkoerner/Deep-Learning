@@ -63,6 +63,8 @@
 - CNN
   - Convoluational Layer
   - Pooling Layer
+  - Padding
+  - Stride
 - Regularization (L1, L2, Dropout)
 - Vanishing Gradient
 - Activation Function (Sigmoid, Relu,...)
