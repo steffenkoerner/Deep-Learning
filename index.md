@@ -9,7 +9,9 @@
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [Free Udacity Course Deep Learning](https://eu.udacity.com/course/deep-learning--ud730?utm_medium=referral&utm_campaign=api)
 - [Github code for applying style to images](https://github.com/lengstrom/fast-style-transfer)
--[An Insider’s Guide to Keeping Up with the AI Experts](https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html)
+- [An Insider’s Guide to Keeping Up with the AI Experts](https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html)
+- [Understanding the difficulty of training deep feedforward neural networks](jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v2.pdf)
 
 
 
