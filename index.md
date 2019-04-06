@@ -74,7 +74,7 @@
 - Vanishing Gradient
 - Activation Function (Sigmoid, Relu,...)
 - Learning Rate
-- Transfer Learning
+- [Transfer Learning](http://cs231n.github.io/transfer-learning/)
   - use pre-trained networks to improve the performance of your classifier
   
   
