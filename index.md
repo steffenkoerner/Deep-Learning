@@ -24,6 +24,9 @@
 - [A easy introduction to CNN (youtube)](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [Convolutional Neuronal Network (CS231)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+### Capsule Networks
+- [Blogpost Capsule Networks](https://cezannec.github.io/Capsule_Networks/)
+
 
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
