@@ -49,6 +49,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 
 
 ### Other Links
+- [50 best public datasets for machine learning](https://towardsdatascience.com/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 
 
 
