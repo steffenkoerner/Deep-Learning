@@ -71,6 +71,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 - Neural Network, MLP, CNN, RNN
 - CNN
   - Convoluational Layer
+  - Transposed Convolutional Layer
   - Pooling Layer
   - Padding
     - Adding border pixels around the image
