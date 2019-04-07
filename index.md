@@ -67,6 +67,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
   - Local Minima
   - Momentum
 - Capsule Network
+- Autoencoder
 - Neural Network, MLP, CNN, RNN
 - CNN
   - Convoluational Layer
