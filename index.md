@@ -38,6 +38,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 - [Understanding LSTM ](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Exploring LSTM](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - [CS231n Lecture 10 - Recurrent Neural Networks, Image Captioning, LSTM](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+- [Tutorial LSTM](https://skymind.ai/wiki/lstm)
 
 
 ### Competitions
