@@ -13,6 +13,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 - [An Insider’s Guide to Keeping Up with the AI Experts](https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html)
 - [Understanding the difficulty of training deep feedforward neural networks](jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf)
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v2.pdf)
+- [Tips and Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 
 
 
