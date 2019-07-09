@@ -42,6 +42,7 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 - [Tutorial LSTM](https://skymind.ai/wiki/lstm)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+### Generative Adversarial Networks
 
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
