@@ -44,6 +44,12 @@ Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Mach
 - [How to Construct Deep Recurrent Neural Networks](https://arxiv.org/abs/1312.6026)
 
 ### Generative Adversarial Networks
+- [Original Paper for GAN's](https://arxiv.org/abs/1406.2661)
+ 
+#### Examples
+- [Pix2Pix](https://affinelayer.com/pixsrv/)
+- [Cycle GAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 
 ### Competitions
 - [kaggle](https://www.kaggle.com/)
