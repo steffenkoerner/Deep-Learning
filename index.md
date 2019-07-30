@@ -2,6 +2,7 @@
 Deep learning is a type of [machine learning](https://en.wikipedia.org/wiki/Machine_learning), which is a type of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence).
 
 ### Neural Networks
+- [Deep Learning Book (Ian Goodfellow)](http://www.deeplearningbook.org/)
 - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Online Book Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
